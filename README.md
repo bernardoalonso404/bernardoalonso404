@@ -1,14 +1,10 @@
 ### Hello there 👋
 
-<!--
-**bernardoalonso404/bernardoalonso404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Cursando TI no IFRJ
 - 🌱 Estudando HTML, CSS, Javascript
 - 😄 Pronomes: ele/dele
--->
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
